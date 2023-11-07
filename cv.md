@@ -18,6 +18,11 @@ I am a 19 year old junior developer, willing to constantly improve and learn, si
 - Unix
 - Python
 
+### Education
+- Harvard CS50 course
+- RS School
+- CS50w for Web Development
+
 ### Languages
 - Russian: C2
 - English: C1
