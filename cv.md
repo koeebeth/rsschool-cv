@@ -2,7 +2,7 @@
 
 # Liza Kamarova
 ## Junior Frontend Developer
-=====
+===
 ### Contacts
 - Email: koebeth@gmail.com
 - GitHub: [koeebeth](https://github.com/koeebeth/)
